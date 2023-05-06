@@ -1,0 +1,23 @@
+{
+  "name": "@awais-khalil/project05_word_counter",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-readfiles": "^0.3.1"
+  },
+  "bin": {
+    "awais_wordcounter": "index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
